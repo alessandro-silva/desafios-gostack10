@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tênis Nike Air Max 90 Premium Shangai Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/207910_1931578_20200121135317.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tênis Nike Air Max 90 Premium Tokyo Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/207956_1933834_20200123115118.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Nike Air Max 90 Premium New York Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/207939_1936526_20200128112330.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tênis Nike Air Max 90 Premium Paris Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/194013_1930858_20200121135142.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tênis Nike Air Max 90 Premium London Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/206671_1930419_20200121135108.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Nike Air Max 90 Premium Paris Masculino",
+      "price": 419.99,
+      "image": "https://images.lojanike.com.br/500x500/produto/194013_1930858_20200121135142.jpg"
+    }
+  ]
+}
